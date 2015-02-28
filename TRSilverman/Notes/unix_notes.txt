@@ -1,0 +1,188 @@
+cd
+less moving_around.txt 
+sb reposCodeFellows/bottom-dollar-bets/
+open reposCodeFellows/bottom-dollar-bets/
+sb notReal.txt
+sb moving_around.txt 
+history > moving_around.txt
+history moving_around.txt
+history | less | sort
+history | sort | less
+history | sort
+man man
+history | less
+history 
+pwd
+sb .
+cd reposCodeFellows/outer-space-ship/
+open Applications/
+open App
+ls
+cd Applications
+cd /Applications/
+git checkout new
+git checkout server
+git branch
+cd reposCodeFellows/bottom-dollar-bets/
+dc reposCodeFellows/bottom-dollar-bets/
+cd re
+cd troysilverman/
+cd ..
+sb
+echo $EDITOR
+git status
+cd outer-space-ship/
+cd reposCodeFellows/
+alias sb='subl '
+cd ~
+cd Code\ Fellows\ Notes\ /
+sb gitUnixWS 
+touch gitUnixWS
+gs
+open Applications/Age\ of\ Empires\ III.app/
+cd //
+subl fish
+cd /usr/local/bin
+cd /usr/local/bin/fish
+subl /usr/local/bin/fish
+killall 'Google Chrome'
+open Applications/Google\ Chrome.app/
+git checkout -b new
+cd bottom-dollar-bets/
+git rm benner.html 
+cd img/
+cd public/
+curl -fsSL http://git.io/7UHtNA | sh
+git --version
+echo $PATH
+subl /etc/paths
+subl .
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+open Sublime\ Text\ 2.app/
+cd Applications/
+sb 
+brew info fish
+cd ../../..
+cd Applications/Age\ of\ Empires\ III.app/
+cd Documents/
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+lstop -u
+open Age\ of\ Empires\ III.app/
+killall -9 'Google Chrome"
+AppleFileServer 
+open home.html 
+sb\\\cd outer-space-ship/
+open index.html 
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+cd 
+ccd
+cd Do
+cd //Applications/
+open benner.html 
+open Google\ Chrome.app/
+open Chrom
+open Skype.app/
+open bottom-dollar-bets/
+open open main.html 
+cd html/
+cd travelAgencySim/
+open 3\ -\ A\ Storm\ of\ Swords/
+cd A\ Song\ of\ Ice\ and\ Fire\ \(Audio\ Books\ 1-5\ -\ Complete\)/
+cd Vuze\ Downloads/
+Vuze\ Downloads/
+cd Vuze\ Downloads/A
+open Foxcatcher.2014.1080p.BluRay.x264.YIFY.mp4 
+cd Foxcatcher\ \(2014\)\ \[1080p\]/
+cd Documents/Vuze\ Downloads/
+caffeinate
+caffeinate -t 7200
+open Birdman.2014.1080p.BluRay.x264.YIFY.mp4 
+cd Birdman\ \(2014\)\ \[1080p\]/
+open a
+open TorBrowser.app/
+open Age
+open 
+cd .
+ls -la
+open main.html 
+open html/index.html 
+open A\ Song\ of\ Ice\ and\ Fire\ \(Audio\ Books\ 1-5\ -\ Complete\)/
+cd A\ Song\ of\ Ice\ and\ Fire\ \(Audio\ Books\ 1-5\ -\ Complete\)/Son
+open Age\ of\ Empires\ III 
+cd Desktop/
+open Agb
+cd Desktop/ 
+cd Desktop
+/Users/troysilverman/Pictures/iPod\ Photo\ Cache/Photo\ Database ; exit;
+open html/main.html 
+cd ../
+cd ../travelAgencySim/
+open about.html
+open test.html 
+open about.html 
+cd ../individualCapstone-/
+SB .
+gb
+cd individualCapstone-/
+LS
+git push origin server 
+git commit -m 'add nba logo and animation' 
+git add .
+open public/index.html 
+cd ../bottom-dollar-bets/
+open main.html
+open .
+rm -rf sim.js
+open jsTopPot.html 
+cd ../Project_JS_HTML/
+cd..
+cd reposCodeFellows/travelAgencySim/
+cd Project_JS_HTML/
+cd bottom-dollar-bets/ sb .
+mv sim.js scripts
+mv index.html html
+rm index.html 
+cd html
+git checkout -b branch2
+git push origin master
+git commit -m 'inital commit'
+mv main.html html
+mkdir scripts
+mkdir css
+mkdir html
+git clone https://github.com/TRSilverman/travelAgencySim.git
+cd ../reposCodeFellows/
+rm -rf temp
+CD ..
+cd temp/
+rm -rf untitled\ folder\ 2/
+rm -rf untitled\ folder
+cd untitled\ folder
+cd ../../
+cd public
+git pull
+cd ../../reposCodeFellows/individualCapstone-/
+cd npoStart/
+mkdir npoStart
+cd personalProjects/
+mkdir personalProjects
+open Vuze\ Downloads/
+CD Vuze\ Downloads/
+open program.html
+cd theGoodParts/
+mkdir theGoodParts
+git push origin branch2
+git commit -m'update readme.md'
+cd reposCodeFellows/individualCapstone-/
+git commit -m 'added about page'
+git commit -m 'add insertion sort visuals'
+d ..
+cd ../../individualCapstone-/
+cd ../..
+cd../..
+cd .. ..
+cd ....
+open game.html 
+open game.
